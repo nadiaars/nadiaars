@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center"> Всем привет, я Надя </h1>
 
-<!--
-**nadiaars/nadiaars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔥 5+ лет в тестировании
+* 🐍 Пишу автотесты на Python
+* ⚙️ Развиваюсь в автоматизации
+* 📑 Мои опыт и навыки в резюме
+* 📞 Мои контакты: телеграм, почта
+* 📍 Сейчас Middle+ AQA в QA Studio 🧡
+  
 
-Here are some ideas to get you started:
+<h3 align="center"> Python </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Стек технологий и инструментов:
+| Python | PyCharm | Git | Pytest | Requests | Selenium | Allure Report | Docker | Gitlab CI | Psycopg3 |
+|--------|---------|-----|--------|----------|----------|---------------|--------|-----------|----------|
+| Row 1  | Cell 2  |👉   |        |          |          |               |        |           |          |
+
+#### Мои проекты:
+| API Битва покемонов | UI Битва покемонов | API My Shows | 
+|---------------------|--------------------|--------------|
+| Row 1               | Cell 2  |👉        |              |
+
