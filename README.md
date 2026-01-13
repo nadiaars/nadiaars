@@ -9,7 +9,7 @@
 
   
 
-<h3 align="center"> Python </h3>
+<h3 align="center"> Python QA Auto</h3>
 
 #### Мой стек:
 | Python | PyCharm | Git | Pytest | Requests | Selenium | Allure Report | Docker | Gitlab CI | PostgreSQL |
