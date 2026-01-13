@@ -4,8 +4,8 @@
 * 🔥 5+ лет в тестировании
 * 🐍 Пишу автотесты на Python
 * ⚙️ Развиваюсь в автоматизации
-* 📑 Опыт и навыки в резюме
-* 📞 Мои контакты: телеграм, почта
+* 📑 Опыт и навыки в **[резюме](https://career.habr.com/nadiaars)**
+* 📞 Мои контакты: **[телеграм](https://t.me/nadia_ars)**, **[почта](nadia_ars@qa.studio)**
 
   
 
@@ -14,7 +14,7 @@
 #### Мой стек:
 | Python | PyCharm | Git | Pytest | Requests | Selenium | Allure Report | Docker | Gitlab CI | Psycopg |
 |--------|---------|-----|--------|----------|----------|---------------|--------|-----------|----------|
-| <img height="50" src="media/python.png" width="50"/>  | <img height="50" src="media/pycharm.png" width="50"/>  |<img height="50" src="media/git.png" width="50"/>|<img height="50" src="media/pytest.png" width="50"/> | <img height="50" src="media/requests.png" width="50"/> |<img height="50" src="media/selenium.png" width="50"/> | <img height="50" src="media/allurereport.png" width="50"/>|<img height="50" src="media/docker.png" width="50"/> | <img height="50" src="media/gitlab.png" width="50"/>| <img height="50" src="media/psycopg.png" width="50"/>|
+| <img height="50" src="media/python.png" width="50"/>  | <img height="50" src="media/pycharm.png" width="50"/>  |<img height="60" src="media/git.png" width="60"/>|<img height="55" src="media/pytest.png" width="55"/> | <img height="50" src="media/requests.png" width="50"/> |<img height="50" src="media/selenium.png" width="50"/> | <img height="55" align="center" src="media/allurereport.png" width="55"/>|<img height="80" src="media/docker.png" width="80"/> | <img height="50" src="media/gitlab.png" width="50"/>| <img height="50" src="media/psycopg.png" width="50"/>|
 
 #### Мои проекты:
 | API Битва покемонов | UI Битва покемонов | API My Shows | 
