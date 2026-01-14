@@ -20,3 +20,4 @@
 | API My Shows Rating |  API Битва покемонов | UI Битва покемонов |
 |---------------------|----------------------|--------------------|
 |[my-shows-api-tests](https://github.com/nadiaars/my-shows-api-tests)|Ссылка на проект    | Ссылка на проект   
+| Pytest, Requests, Docker|Pytest, Requests, Gitlab CI| Selenium, Gitlab CI|
